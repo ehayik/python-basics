@@ -2,3 +2,4 @@
 /venv/
 .idea
 *.iml
+files-and-csv/resulting_data.csv
